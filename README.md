@@ -14,7 +14,7 @@ A **Streamlit + SQLite + Python** project to reduce food wastage by connecting p
 
 ## 📦 Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/local-food-wastage-management.git
+git clone [https://github.com/YOUR_USERNAME/local-food-wastage-management.git](https://github.com/ioskinjal/local-food-wastage-management.git)
 cd local-food-wastage-management
 python3 -m venv venv && source venv/bin/activate
 python3 -m pip install -r requirements.txt
